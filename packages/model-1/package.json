@@ -1,0 +1,12 @@
+{
+	"name": "model-1",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"vue": "^2.6.6"
+	}
+}
