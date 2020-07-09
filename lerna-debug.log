@@ -1,0 +1,17 @@
+36 error Error: Command failed: git push --follow-tags --no-verify --atomic origin master
+36 error fatal: HttpRequestException encountered.
+36 error    ��������ʱ������
+36 error Missing or invalid credentials.
+36 error Error: socket hang up
+36 error     at connResetException (internal/errors.js:559:14)
+36 error     at Socket.socketOnEnd (_http_client.js:433:23)
+36 error     at Socket.emit (events.js:208:15)
+36 error     at endReadableNT (_stream_readable.js:1168:12)
+36 error     at processTicksAndRejections (internal/process/task_queues.js:77:11) {
+36 error   code: 'ECONNRESET'
+36 error }
+36 error remote: No anonymous write access.
+36 error fatal: Authentication failed for 'https://github.com/ZAXHM/lna.git/'
+36 error
+36 error     at makeError (C:\Users\admin\AppData\Roaming\npm\node_modules\lerna\node_modules\_execa@1.0.0@execa\index.js:174:9)
+36 error     at Promise.all.then.arr (C:\Users\admin\AppData\Roaming\npm\node_modules\lerna\node_modules\_execa@1.0.0@execa\index.js:278:16)
